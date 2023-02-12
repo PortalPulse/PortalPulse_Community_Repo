@@ -1,0 +1,8 @@
+{
+  "host":"portalpulse",
+  "title":"Portal Pulse Community Repository",
+  "packages":
+  [
+    "https://github.com/PortalPulse/Example_Repo"
+  ]
+}
