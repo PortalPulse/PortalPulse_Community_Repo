@@ -3,6 +3,6 @@
   "title":"Portal Pulse Community Repository",
   "packages":
   [
-    "https://github.com/PortalPulse/Example_Repo"
+    "https://raw.githubusercontent.com/PortalPulse/Example_Repo/main"
   ]
 }
